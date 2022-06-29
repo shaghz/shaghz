@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shaghz
+                                                        Hi 👋, I’m Shaghayegh
 - 👀 I’m interested in programming, especially in frontend.
-- 👀 I’ve worked with Javascript, React and Angular!
+- I’ve worked with Javascript, React and Angular!
 
 <!---
 shaghz/shaghz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
