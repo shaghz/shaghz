@@ -1,4 +1,4 @@
-                                                        Hi 👋, I’m Shaghayegh
+## Hi 👋, I’m Shaghayegh ##
 - 👀 I’m interested in programming, especially in frontend.
 - I’ve worked with Javascript, React and Angular!
 
